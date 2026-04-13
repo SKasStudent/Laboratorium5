@@ -8,7 +8,7 @@ Projekt zawiera Dockerfile tworzący obraz bazowy "scratch" alpine, który buduj
 - Wersję aplikacji
 
 ## Autor
-Szymon Kasperczuk
+Szymon Kasperczuk  
 Adres Email: s101587@pollub.edu.pl
 
 ## Polecenia użyte przy realizacji zadania
